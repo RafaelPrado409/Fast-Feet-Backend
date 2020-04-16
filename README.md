@@ -1,6 +1,6 @@
 # English
 
-## Welcome to RocketSeat_GoStack_Node
+## Welcome to RocketSeat_GoStack_Node_FastFeet
 
 This repository is dedicated a challenges made in GoStack bootcamp
 
@@ -30,7 +30,7 @@ In this application was utilized:
 
 # Português
 
-## Bem Vindo a RocketSeat_GoStack_Node
+## Bem Vindo a RocketSeat_GoStack_Node_FastFeet
 
 Esse repositorio e dedicado a desafios em node do bootcamp GoStack
 
