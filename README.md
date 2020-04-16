@@ -4,6 +4,8 @@
 
 This repository is dedicated a challenges made in GoStack bootcamp
 
+### yarn dev and yarn queue to run all process.
+
 ### FastFeet Backend: 
 - It is an application for a fictional distributor, FastFeet. The FastFeet administrator is responsible for registering the deliverers, recipients, packages and problems.
 - A delivery that has had a problem can be promptly canceled by the administrator,
@@ -41,6 +43,8 @@ In this application was utilized:
 ## Bem Vindo a RocketSeat_GoStack_Node_FastFeet
 
 Esse repositorio e dedicado a desafios em node do bootcamp GoStack
+
+### yarn dev and yarn que para rodar todo o processo
 
 ### FastFeet Backend: 
 - É um aplicativo para uma distribuidora fictícia, FastFeet. O administrador do FastFeet é responsável por registrar os entregadores, destinatários, pacotes e problemas.
