@@ -1,4 +1,6 @@
-# Welcome to RocketSeat_GoStack_Node
+# English
+
+## Welcome to RocketSeat_GoStack_Node
 
 This repository is dedicated a challenges made in GoStack bootcamp
 
@@ -26,7 +28,9 @@ In this application was utilized:
 - eslint,
 - sucrase,
 
-# Bem Vindo a RocketSeat_GoStack_Node
+# Português
+
+## Bem Vindo a RocketSeat_GoStack_Node
 
 Esse repositorio e dedicado a desafios em node do bootcamp GoStack
 
