@@ -6,7 +6,7 @@ This repository is dedicated a challenges made in GoStack bootcamp
 
 ### FastFeet Backend: Is an app for a fictional carrier, FastFeet. The FastFeet admin is resposible to registered deliverymans, recipients, packages and problems 
 
-Use ***Yarn*** to make download dependences
+Use ***yarn*** or ***npm install*** to make download dependences
 
 In this application was utilized:
 - Sequelize,
@@ -36,7 +36,7 @@ Esse repositorio e dedicado a desafios em node do bootcamp GoStack
 
 ### FastFeet Backend: É um aplicativo para uma distribuidora fictícia, FastFeet. O administrador do FastFeet é responsável por registrar os homens de entrega, destinatários, pacotes e problemas
 
-Use ***Yarn*** para baixar as dependencias
+Use ***yarn*** ***npm install*** para baixar as dependencias
 
 Nesta aplicação, foi utilizado:
 - Sequelize,
