@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+# Welcome to RocketSeat_GoStack_Node
 
-You can use the [editor on GitHub](https://github.com/RafaelPrado409/RocketSeat_GoStack_Node/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository is dedicated a challenges made in GoStack bootcamp
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# FastFeet Backend: Is an app for a fictional carrier, FastFeet. The FastFeet admin is resposible to registered deliverymans, recipients, packages and problems 
 
-### Markdown
+Use ***Yarn*** to make download dependences
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In this application was utilized:
+- Sequelize,
+- Sequelize-cli
+- yuo,
+- redis,
+- pg-hgstore,
+- pg,
+- nodemailer,
+- nodemailer-express-handlebars,
+- multer,
+- moongose,
+- jsonwebtoken,
+- express-handlebars,
+- express,
+- date-fns,
+- bee-queue,
+- bcryptjs,
+- eslint,
+- sucrase,
 
-```markdown
-Syntax highlighted code block
+# Bem Vindo a RocketSeat_GoStack_Node
 
-# Header 1
-## Header 2
-### Header 3
+Esse repositorio e dedicado a desafios em node do bootcamp GoStack
 
-- Bulleted
-- List
+# FastFeet Backend: É um aplicativo para uma distribuidora fictícia, FastFeet. O administrador do FastFeet é responsável por registrar os homens de entrega, destinatários, pacotes e problemas
 
-1. Numbered
-2. List
+Use ***Yarn*** para baixar as dependencias
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RafaelPrado409/RocketSeat_GoStack_Node/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Nesta aplicação, foi utilizado:
+- Sequelize,
+- Sequelize-cli
+- yuo,
+- redis,
+- pg-hgstore,
+- pg,
+- nodemailer,
+- nodemailer-express-handlebars,
+- multer,
+- moongose,
+- jsonwebtoken,
+- express-handlebars,
+- express,
+- date-fns,
+- bee-queue,
+- bcryptjs,
+- eslint,
+- sucrase,
