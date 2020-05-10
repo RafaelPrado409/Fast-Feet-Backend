@@ -18,6 +18,8 @@ This repository is dedicated a challenges made in GoStack bootcamp
 
 Use ***yarn*** or ***npm install*** to make download dependences
 
+In this API three databases are used: ***Postgres***, ***MongoDB ***, ***Redis*** 
+
 In this application was utilized:
 - Sequelize,
 - Sequelize-cli
@@ -56,9 +58,11 @@ Esse repositorio e dedicado a desafios em node do bootcamp GoStack
 - Todos os entregadores são listados;
 - Todas os entregadores, entregas e destinatarios podem ser excluido pelo admnistrador.
 
-Use ***yarn*** ***npm install*** para baixar as dependencias
+Use ***yarn*** ***npm install*** para baixar as dependências
 
-Nesta aplicação, foi utilizado:
+Nessa API utilizamos três bancos diferentes: ***Postgres***, ***MongoDB***, ***Redis***
+
+Nesta aplicação, foi utilizado as sequintes dependências:
 - Sequelize,
 - Sequelize-cli
 - yuo,
