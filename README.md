@@ -1,12 +1,9 @@
 # English
 
-## Welcome to RocketSeat_GoStack_Node_FastFeet
+## What is this application?
 
-This repository is dedicated a challenges made in GoStack bootcamp
+This application is a challenges made in GoStack bootcamp of Rocketseat.
 
-### yarn dev and yarn queue to run all process.
-
-### FastFeet Backend: 
 - It is an application for a fictional distributor, FastFeet. The FastFeet administrator is responsible for registering the deliverers, recipients, packages and problems.
 - A delivery that has had a problem can be promptly canceled by the administrator,
 - Deliveries can only take place from 8 am to 6 pm;
@@ -14,9 +11,33 @@ This repository is dedicated a challenges made in GoStack bootcamp
 - When a delivery is created for a specific delivery person he receives an email and a notification
 - All deliveries are listed;
 - All couriers are listed;
-- All couriers, deliveries and recipients can be excluded by the administrator. 
+- All couriers, deliveries and recipients can be excluded by the administrator.
 
-Use ***yarn*** or ***npm install*** to make download dependences
+## How do I use it?
+
+
+### Yarn
+
+ ``` 
+yarn 
+``` 
+to install all dependences
+
+ ``` 
+ yarn start 
+ ``` 
+ to start the application after install the dependences
+ 
+### NPM
+
+```
+npm install
+``` 
+to install all dependences
+```
+npm run start
+``` 
+ to start the application after install the dependences
 
 In this API three databases are used: ***Postgres***, ***MongoDB ***, ***Redis*** 
 
@@ -42,13 +63,10 @@ In this application was utilized:
 
 # Português
 
-## Bem Vindo a RocketSeat_GoStack_Node_FastFeet
+## O que e essa aplicação?
 
-Esse repositorio e dedicado a desafios em node do bootcamp GoStack
+Um desafio feito em node do bootcamp GoStack da Rocketseat.
 
-### yarn dev and yarn que para rodar todo o processo
-
-### FastFeet Backend: 
 - É um aplicativo para uma distribuidora fictícia, FastFeet. O administrador do FastFeet é responsável por registrar os entregadores, destinatários, pacotes e problemas.
 - Uma entrega que teve algum problema pode ser prontamente cancelada pelo admnistrador,
 - A entregas so podem ocorrer das 08h as 18h;
@@ -58,26 +76,60 @@ Esse repositorio e dedicado a desafios em node do bootcamp GoStack
 - Todos os entregadores são listados;
 - Todas os entregadores, entregas e destinatarios podem ser excluido pelo admnistrador.
 
-Use ***yarn*** ***npm install*** para baixar as dependências
+## Como eu a utilizo?
 
-Nessa API utilizamos três bancos diferentes: ***Postgres***, ***MongoDB***, ***Redis***
+Nessa API utilizamos três bancos diferentes: ***Postgres***, ***MongoDB***, ***Redis***, entao e preciso que tenha instalado:
 
-Nesta aplicação, foi utilizado as sequintes dependências:
-- Sequelize,
-- Sequelize-cli
-- yuo,
-- redis,
-- pg-hgstore,
-- pg,
-- nodemailer,
-- nodemailer-express-handlebars,
-- multer,
-- moongose,
-- jsonwebtoken,
-- express-handlebars,
-- express,
-- date-fns,
-- bee-queue,
-- bcryptjs,
-- eslint,
-- sucrase,
+- [Docker](https://docs.docker.com/) para criarmos os conteiners que vao rodar os bancos na imagem linux;
+- [MongoDB Compass](https://www.mongodb.com/products/compass) para ter uma vizualizacao e poder manipular seu mongodb;
+- [Postbird](https://www.electronjs.org/apps/postbird) para ter uma vizualizacao e poder manipular seu db postgres;
+
+Tambem e preciso ter uma conta no [mailtrap](https://mailtrap.io/) para vizualizar os emails teste que usamos na API
+
+Após a instalação você pode usar os seguintes comandos no seu terminal dentro da pasta do proejeto ou no VSCode:
+
+### Yarn
+
+ ``` 
+yarn 
+``` 
+para instalar as dependências
+
+ ``` 
+ yarn start 
+ ``` 
+ para iniciar a aplicação apos a instalação das dependências
+ 
+### NPM
+
+```
+npm install
+``` 
+para instalar as dependências
+```
+npm run start
+``` 
+para iniciar a aplicação apos a instalação das dependências
+
+
+## As principais dependências para o projeto:
+- [bee-queue](https://github.com/bee-queue/bee-queue) para criar fila de jobs para envio de email;
+- [bcryptjs](https://github.com/dcodeIO/bcrypt.js/) para encriptar as senhas;
+- [date-fns](https://date-fns.org/) para manipulacao de datas;
+- [Eslint](https://eslint.org/) para padronizações e correções de codigo;
+- [express](https://github.com/expressjs/express) para a criacao de rotas;
+- [express-handlebars](https://github.com/ericf/express-handlebars) para utilizar a view engine do handlebars no express;
+- [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) para utilizar tokens;
+- [moongose](https://mongoosejs.com/) para fazer modelar, converter e fazer consultas para o mongoDB;
+- [multer](https://github.com/expressjs/multer) para poder fazer uploads de arquivos;
+- [nodemailer](https://nodemailer.com/about/) para fazer o envio de email;
+- [nodemailer-express-handlebars](https://github.com/yads/nodemailer-express-handlebars) plugin que gera emails em formato html utilizando o handlebars;
+- [pg-hstore](https://node-postgre) para armazenar pares de chave em unico valor;
+- [redis](https://redis.io/) como db que vai receber a fila de emails;
+- [Sequelize](https://sequelize.org/) como orm para o postgres;
+- [sucrase](https://github.com/alangpierce/sucrase) para utilizar a sintaxe nova do javascript,
+- [yup](https://github.com/jquense/yup) para validacao dos squemas;
+
+***Algumas dependências não foram mencionadas, por fazerem parte das relevantes***
+
+***Para feedbacks e contato: santiagorafael409@gmail.com***
