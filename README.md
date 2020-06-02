@@ -100,9 +100,9 @@ Um desafio feito em node do bootcamp GoStack da Rocketseat.
 
 ## Como eu a utilizo?
 
-#### Devera ter baixada a versao mais estável do [NodeJs](https://nodejs.org/en/)
+#### Devera ter baixada a versão mais estável do [NodeJs](https://nodejs.org/en/)
 
-Nessa API utilizamos três bancos diferentes: ***Postgres***, ***MongoDB***, ***Redis***, entao e preciso que tenha instalado:
+Nessa API utilizamos três bancos diferentes: ***Postgres***, ***MongoDB***, ***Redis***, então e preciso que tenha instalado:
 
 - [Docker](https://docs.docker.com/) para criarmos os contêineres que vão rodar os bancos na imagem linux;
 - [MongoDB Compass](https://www.mongodb.com/products/compass) para ter uma vizualizacão e poder manipular seu mongodb;
