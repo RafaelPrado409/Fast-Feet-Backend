@@ -58,7 +58,7 @@ npm run dev
  ```
  to run the e-mail queue
 
-In this API three databases are used: ***Postgres***, ***MongoDB ***, ***Redis*** 
+In this API three databases are used: ***Postgres***, ***MongoDB***, ***Redis*** 
 
 ## Relevant dependencies for the project:
 - [bee-queue](https://github.com/bee-queue/bee-queue) to create a job queue for sending email;
