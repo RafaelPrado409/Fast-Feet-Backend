@@ -20,7 +20,7 @@ This application is a challenges made in GoStack bootcamp of Rocketseat.
 In this API we use three different databases: ***Postgres***, ***MongoDB***, ***Redis***, so you need to have it installed:
 
 - [Docker](https://docs.docker.com/) to create the containers that will run the databases in the linux image;
-- [MongoDBCompass] (https://www.mongodb.com/products/compass) to have a view and be able to manipulate your mongodb;
+- [MongoDBCompass](https://www.mongodb.com/products/compass) to have a view and be able to manipulate your mongodb;
 - [Postbird](https://www.electronjs.org/apps/postbird) to have a view and be able to manipulate your postgres db;
 
 You also need to have an account at [mailtrap](https://mailtrap.io/) to view the test emails we use in the API
