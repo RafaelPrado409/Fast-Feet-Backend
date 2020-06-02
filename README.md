@@ -15,15 +15,15 @@ This application is a challenges made in GoStack bootcamp of Rocketseat.
 
 ## How do I use it?
 
-#### You should have downloaded the most stable version of [NodeJs] (https://nodejs.org/en/)
+#### You should have downloaded the most stable version of [NodeJs](https://nodejs.org/en/)
 
-In this API we use three different databases: *** Postgres ***, *** MongoDB ***, *** Redis ***, so you need to have it installed:
+In this API we use three different databases: ***Postgres***, ***MongoDB***, ***Redis***, so you need to have it installed:
 
-- [Docker] (https://docs.docker.com/) to create the containers that will run the databases in the linux image;
-- [MongoDB Compass] (https://www.mongodb.com/products/compass) to have a view and be able to manipulate your mongodb;
-- [Postbird] (https://www.electronjs.org/apps/postbird) to have a view and be able to manipulate your postgres db;
+- [Docker](https://docs.docker.com/) to create the containers that will run the databases in the linux image;
+- [MongoDBCompass] (https://www.mongodb.com/products/compass) to have a view and be able to manipulate your mongodb;
+- [Postbird](https://www.electronjs.org/apps/postbird) to have a view and be able to manipulate your postgres db;
 
-You also need to have an account at [mailtrap] (https://mailtrap.io/) to view the test emails we use in the API
+You also need to have an account at [mailtrap](https://mailtrap.io/) to view the test emails we use in the API
 
 ### Yarn
 
@@ -61,22 +61,22 @@ npm run dev
 In this API three databases are used: ***Postgres***, ***MongoDB ***, ***Redis*** 
 
 ## Relevant dependencies for the project:
-- [bee-queue] (https://github.com/bee-queue/bee-queue) to create a job queue for sending email;
-- [bcryptjs] (https://github.com/dcodeIO/bcrypt.js/) to encrypt passwords;
-- [date-fns] (https://date-fns.org/) for manipulating dates;
-- [Eslint] (https://eslint.org/) for standardization and code corrections;
-- [express] (https://github.com/expressjs/express) for creating routes;
-- [express-handlebars] (https://github.com/ericf/express-handlebars) to use the handlebars view engine in express;
-- [jsonwebtoken] (https://github.com/auth0/node-jsonwebtoken) to use tokens;
-- [moongose] (https://mongoosejs.com/) to model, convert and make queries for mongoDB;
-- [multer] (https://github.com/expressjs/multer) to be able to upload files;
-- [nodemailer] (https://nodemailer.com/about/) to send email;
-- [nodemailer-express-handlebars] (https://github.com/yads/nodemailer-express-handlebars) plugin that generates emails in html format using the handlebars;
-- [pg-hstore] (https: // node-postgre) to store key pairs in a single value;
-- [redis] (https://redis.io/) as db that will receive the email queue;
-- [Sequelize] (https://sequelize.org/) as an orm for postgres;
-- [sucrase] (https://github.com/alangpierce/sucrase) to use the new javascript syntax,
-- [yup] (https://github.com/jquense/yup) to validate the schemes;
+- [bee-queue](https://github.com/bee-queue/bee-queue) to create a job queue for sending email;
+- [bcryptjs](https://github.com/dcodeIO/bcrypt.js/) to encrypt passwords;
+- [date-fns](https://date-fns.org/) for manipulating dates;
+- [Eslint](https://eslint.org/) for standardization and code corrections;
+- [express](https://github.com/expressjs/express) for creating routes;
+- [express-handlebars](https://github.com/ericf/express-handlebars) to use the handlebars view engine in express;
+- [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) to use tokens;
+- [moongose](https://mongoosejs.com/) to model, convert and make queries for mongoDB;
+- [multer](https://github.com/expressjs/multer) to be able to upload files;
+- [nodemailer](https://nodemailer.com/about/) to send email;
+- [nodemailer-express-handlebars](https://github.com/yads/nodemailer-express-handlebars) plugin that generates emails in html format using the handlebars;
+- [pg-hstore](https://node-postgre) to store key pairs in a single value;
+- [redis](https://redis.io/) as db that will receive the email queue;
+- [Sequelize](https://sequelize.org/) as an orm for postgres;
+- [sucrase](https://github.com/alangpierce/sucrase) to use the new javascript syntax,
+- [yup](https://github.com/jquense/yup) to validate the schemes;
 
 
 ***Some dependences were not mentioned, to make part of the relevants***
