@@ -1,3 +1,8 @@
+![](https://img.shields.io/badge/node-12.18.0-yellowgreen)
+![](https://img.shields.io/badge/npm-6.9.0-red)
+![](https://img.shields.io/badge/-Rocketseat-blue)
+
+
 # English
 
 ## What is this application?
