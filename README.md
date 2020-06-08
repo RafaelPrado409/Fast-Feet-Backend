@@ -169,6 +169,6 @@ npm run queue
 - [sucrase](https://github.com/alangpierce/sucrase) para utilizar a sintaxe nova do javascript,
 - [yup](https://github.com/jquense/yup) para validacão dos schemas;
 
-***Algumas dependências não foram mencionadas, por fazerem parte das relevantes***
+***Algumas dependências não foram mencionadas, por fazerem parte das principais***
 
 ***Para feedbacks e contato: santiagorafael409@gmail.com***
