@@ -1,5 +1,7 @@
 # **Fast-Feet**
 
+![GitHub repo size](https://img.shields.io/github/repo-size/RafaelPrado409/Fast-Feet-Backend?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/RafaelPrado409/Fast-Feet-Backend?style=for-the-badge)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
